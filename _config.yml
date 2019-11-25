@@ -6,7 +6,7 @@
 name: Cherniy Kot
 
 # Short bio or description (displayed in the header)
-description: Somehow still not expelled from ITMO student.
+description: Somehow still not expelled from ITMO student
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: CherniyKot
+  github: CherniyKot/Web
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter:
+  twitter: sss
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -47,7 +47,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/Web"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
